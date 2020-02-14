@@ -1,0 +1,2 @@
+// bpmn-js.d.ts
+
